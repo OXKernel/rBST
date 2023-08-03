@@ -6,7 +6,7 @@ containers in STL. It is provided here just for reference.
 Feel free to modify and improve it if you wish.
 
 Note that without randomizing the input, there is no hope
-for it to work for large input.
+for it to work for large sequential input.
 
 Here is a sample run:
 
