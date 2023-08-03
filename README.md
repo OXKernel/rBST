@@ -10,8 +10,6 @@ for it to work for large sequential input.
 
 Here is a sample run:
 
-starting test
-
 * rBST 47.000000
 * unordered_map 17.000000
 * std::map 15.000000
